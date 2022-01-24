@@ -1,0 +1,2507 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "AFG",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "area": 652230,
+    "landlocked": true,
+    "borders": [
+      "Iran",
+      "Pakistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Tajikistan",
+      "China"
+    ]
+  },
+  {
+    "name": "Angola",
+    "code": "AGO",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "area": 1246700,
+    "landlocked": false,
+    "borders": [
+      "Republic of the Congo",
+      "DR Congo",
+      "Zambia",
+      "Namibia"
+    ]
+  },
+  {
+    "name": "Albania",
+    "code": "ALB",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "area": 28748,
+    "landlocked": false,
+    "borders": [
+      "Montenegro",
+      "Greece",
+      "North Macedonia"
+    ]
+  },
+  {
+    "name": "Andorra",
+    "code": "AND",
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "area": 468,
+    "landlocked": true,
+    "borders": [
+      "France",
+      "Spain"
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "ARE",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "area": 83600,
+    "landlocked": false,
+    "borders": [
+      "Oman",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "name": "Argentina",
+    "code": "ARG",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "area": 2780400,
+    "landlocked": false,
+    "borders": [
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Paraguay",
+      "Uruguay"
+    ]
+  },
+  {
+    "name": "Armenia",
+    "code": "ARM",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "area": 29743,
+    "landlocked": true,
+    "borders": [
+      "Azerbaijan",
+      "Georgia",
+      "Iran",
+      "Turkey"
+    ]
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "ATG",
+    "capital": "Saint John's",
+    "continent": "North America",
+    "area": 442,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Australia",
+    "code": "AUS",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "area": 7692024,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Austria",
+    "code": "AUT",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "area": 83871,
+    "landlocked": true,
+    "borders": [
+      "Czechia",
+      "Germany",
+      "Hungary",
+      "Italy",
+      "Liechtenstein",
+      "Slovakia",
+      "Slovenia",
+      "Switzerland"
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "AZE",
+    "capital": "Baku",
+    "continent": "Asia",
+    "area": 86600,
+    "landlocked": true,
+    "borders": [
+      "Armenia",
+      "Georgia",
+      "Iran",
+      "Russia",
+      "Turkey"
+    ]
+  },
+  {
+    "name": "Burundi",
+    "code": "BDI",
+    "capital": "Gitega",
+    "continent": "Africa",
+    "area": 27834,
+    "landlocked": true,
+    "borders": [
+      "DR Congo",
+      "Rwanda",
+      "Tanzania"
+    ]
+  },
+  {
+    "name": "Belgium",
+    "code": "BEL",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "area": 30528,
+    "landlocked": false,
+    "borders": [
+      "France",
+      "Germany",
+      "Luxembourg",
+      "Netherlands"
+    ]
+  },
+  {
+    "name": "Benin",
+    "code": "BEN",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "area": 112622,
+    "landlocked": false,
+    "borders": [
+      "Burkina Faso",
+      "Niger",
+      "Nigeria",
+      "Togo"
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BFA",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "area": 272967,
+    "landlocked": true,
+    "borders": [
+      "Benin",
+      "Ivory Coast",
+      "Ghana",
+      "Mali",
+      "Niger",
+      "Togo"
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "code": "BGD",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "area": 147570,
+    "landlocked": false,
+    "borders": [
+      "Myanmar",
+      "India"
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BGR",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "area": 110879,
+    "landlocked": false,
+    "borders": [
+      "Greece",
+      "North Macedonia",
+      "Romania",
+      "Serbia",
+      "Turkey"
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "code": "BHR",
+    "capital": "Manama",
+    "continent": "Asia",
+    "area": 765,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Bahamas",
+    "code": "BHS",
+    "capital": "Nassau",
+    "continent": "North America",
+    "area": 13943,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BIH",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "area": 51209,
+    "landlocked": false,
+    "borders": [
+      "Croatia",
+      "Montenegro",
+      "Serbia"
+    ]
+  },
+  {
+    "name": "Belarus",
+    "code": "BLR",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "area": 207600,
+    "landlocked": true,
+    "borders": [
+      "Latvia",
+      "Lithuania",
+      "Poland",
+      "Russia",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Belize",
+    "code": "BLZ",
+    "capital": "Belmopan",
+    "continent": "North America",
+    "area": 22966,
+    "landlocked": false,
+    "borders": [
+      "Guatemala",
+      "Mexico"
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "code": "BOL",
+    "capital": "Sucre",
+    "continent": "South America",
+    "area": 1098581,
+    "landlocked": true,
+    "borders": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Paraguay",
+      "Peru"
+    ]
+  },
+  {
+    "name": "Brazil",
+    "code": "BRA",
+    "capital": "Brasília",
+    "continent": "South America",
+    "area": 8515767,
+    "landlocked": false,
+    "borders": [
+      "Argentina",
+      "Bolivia",
+      "Colombia",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Barbados",
+    "code": "BRB",
+    "capital": "Bridgetown",
+    "continent": "North America",
+    "area": 430,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Brunei",
+    "code": "BRN",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "area": 5765,
+    "landlocked": false,
+    "borders": [
+      "Malaysia"
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "code": "BTN",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "area": 38394,
+    "landlocked": true,
+    "borders": [
+      "China",
+      "India"
+    ]
+  },
+  {
+    "name": "Botswana",
+    "code": "BWA",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "area": 582000,
+    "landlocked": true,
+    "borders": [
+      "Namibia",
+      "South Africa",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CAF",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "area": 622984,
+    "landlocked": true,
+    "borders": [
+      "Cameroon",
+      "Chad",
+      "DR Congo",
+      "Republic of the Congo",
+      "South Sudan",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Canada",
+    "code": "CAN",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "area": 9984670,
+    "landlocked": false,
+    "borders": [
+      "United States"
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "code": "CHE",
+    "capital": "Bern",
+    "continent": "Europe",
+    "area": 41284,
+    "landlocked": true,
+    "borders": [
+      "Austria",
+      "France",
+      "Italy",
+      "Liechtenstein",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Chile",
+    "code": "CHL",
+    "capital": "Santiago",
+    "continent": "South America",
+    "area": 756102,
+    "landlocked": false,
+    "borders": [
+      "Argentina",
+      "Bolivia",
+      "Peru"
+    ]
+  },
+  {
+    "name": "China",
+    "code": "CHN",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "area": 9706961,
+    "landlocked": false,
+    "borders": [
+      "Afghanistan",
+      "Bhutan",
+      "Myanmar",
+      "India",
+      "Kazakhstan",
+      "Nepal",
+      "North Korea",
+      "Kyrgyzstan",
+      "Laos",
+      "Mongolia",
+      "Pakistan",
+      "Russia",
+      "Tajikistan",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "CIV",
+    "capital": "Yamoussoukro",
+    "continent": "Africa",
+    "area": 322463,
+    "landlocked": false,
+    "borders": [
+      "Burkina Faso",
+      "Ghana",
+      "Guinea",
+      "Liberia",
+      "Mali"
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "code": "CMR",
+    "capital": "Yaoundé",
+    "continent": "Africa",
+    "area": 475442,
+    "landlocked": false,
+    "borders": [
+      "Central African Republic",
+      "Chad",
+      "Republic of the Congo",
+      "Equatorial Guinea",
+      "Gabon",
+      "Nigeria"
+    ]
+  },
+  {
+    "name": "DR Congo",
+    "code": "COD",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "area": 2344858,
+    "landlocked": false,
+    "borders": [
+      "Angola",
+      "Burundi",
+      "Central African Republic",
+      "Republic of the Congo",
+      "Rwanda",
+      "South Sudan",
+      "Tanzania",
+      "Uganda",
+      "Zambia"
+    ]
+  },
+  {
+    "name": "Republic of the Congo",
+    "code": "COG",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "area": 342000,
+    "landlocked": false,
+    "borders": [
+      "Angola",
+      "Cameroon",
+      "Central African Republic",
+      "DR Congo",
+      "Gabon"
+    ]
+  },
+  {
+    "name": "Colombia",
+    "code": "COL",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "area": 1141748,
+    "landlocked": false,
+    "borders": [
+      "Brazil",
+      "Ecuador",
+      "Panama",
+      "Peru",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Comoros",
+    "code": "COM",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "area": 1862,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Cape Verde",
+    "code": "CPV",
+    "capital": "Praia",
+    "continent": "Africa",
+    "area": 4033,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Costa Rica",
+    "code": "CRI",
+    "capital": "San José",
+    "continent": "North America",
+    "area": 51100,
+    "landlocked": false,
+    "borders": [
+      "Nicaragua",
+      "Panama"
+    ]
+  },
+  {
+    "name": "Cuba",
+    "code": "CUB",
+    "capital": "Havana",
+    "continent": "North America",
+    "area": 109884,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Cyprus",
+    "code": "CYP",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "area": 9251,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Czechia",
+    "code": "CZE",
+    "capital": "Prague",
+    "continent": "Europe",
+    "area": 78865,
+    "landlocked": true,
+    "borders": [
+      "Austria",
+      "Germany",
+      "Poland",
+      "Slovakia"
+    ]
+  },
+  {
+    "name": "Germany",
+    "code": "DEU",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "area": 357114,
+    "landlocked": false,
+    "borders": [
+      "Austria",
+      "Belgium",
+      "Czechia",
+      "Denmark",
+      "France",
+      "Luxembourg",
+      "Netherlands",
+      "Poland",
+      "Switzerland"
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "code": "DJI",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "area": 23200,
+    "landlocked": false,
+    "borders": [
+      "Eritrea",
+      "Ethiopia",
+      "Somalia"
+    ]
+  },
+  {
+    "name": "Dominica",
+    "code": "DMA",
+    "capital": "Roseau",
+    "continent": "North America",
+    "area": 751,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Denmark",
+    "code": "DNK",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "area": 43094,
+    "landlocked": false,
+    "borders": [
+      "Germany"
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "DOM",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "area": 48671,
+    "landlocked": false,
+    "borders": [
+      "Haiti"
+    ]
+  },
+  {
+    "name": "Algeria",
+    "code": "DZA",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "area": 2381741,
+    "landlocked": false,
+    "borders": [
+      "Tunisia",
+      "Libya",
+      "Niger",
+      "Mauritania",
+      "Mali",
+      "Morocco"
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "code": "ECU",
+    "capital": "Quito",
+    "continent": "South America",
+    "area": 276841,
+    "landlocked": false,
+    "borders": [
+      "Colombia",
+      "Peru"
+    ]
+  },
+  {
+    "name": "Egypt",
+    "code": "EGY",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "area": 1002450,
+    "landlocked": false,
+    "borders": [
+      "Israel",
+      "Libya",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "code": "ERI",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "area": 117600,
+    "landlocked": false,
+    "borders": [
+      "Djibouti",
+      "Ethiopia",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Spain",
+    "code": "ESP",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "area": 505992,
+    "landlocked": false,
+    "borders": [
+      "Andorra",
+      "France",
+      "Portugal",
+      "Morocco"
+    ]
+  },
+  {
+    "name": "Estonia",
+    "code": "EST",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "area": 45227,
+    "landlocked": false,
+    "borders": [
+      "Latvia",
+      "Russia"
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ETH",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "area": 1104300,
+    "landlocked": true,
+    "borders": [
+      "Djibouti",
+      "Eritrea",
+      "Kenya",
+      "Somalia",
+      "South Sudan",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Finland",
+    "code": "FIN",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "area": 338424,
+    "landlocked": false,
+    "borders": [
+      "Norway",
+      "Sweden",
+      "Russia"
+    ]
+  },
+  {
+    "name": "Fiji",
+    "code": "FJI",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "area": 18272,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "France",
+    "code": "FRA",
+    "capital": "Paris",
+    "continent": "Europe",
+    "area": 551695,
+    "landlocked": false,
+    "borders": [
+      "Andorra",
+      "Belgium",
+      "Germany",
+      "Italy",
+      "Luxembourg",
+      "Monaco",
+      "Spain",
+      "Switzerland"
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "code": "FSM",
+    "capital": "Palikir",
+    "continent": "Oceania",
+    "area": 702,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Gabon",
+    "code": "GAB",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "area": 267668,
+    "landlocked": false,
+    "borders": [
+      "Cameroon",
+      "Republic of the Congo",
+      "Equatorial Guinea"
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GBR",
+    "capital": "London",
+    "continent": "Europe",
+    "area": 242900,
+    "landlocked": false,
+    "borders": [
+      "Ireland"
+    ]
+  },
+  {
+    "name": "Georgia",
+    "code": "GEO",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "area": 69700,
+    "landlocked": false,
+    "borders": [
+      "Armenia",
+      "Azerbaijan",
+      "Russia",
+      "Turkey"
+    ]
+  },
+  {
+    "name": "Ghana",
+    "code": "GHA",
+    "capital": "Accra",
+    "continent": "Africa",
+    "area": 238533,
+    "landlocked": false,
+    "borders": [
+      "Burkina Faso",
+      "Ivory Coast",
+      "Togo"
+    ]
+  },
+  {
+    "name": "Guinea",
+    "code": "GIN",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "area": 245857,
+    "landlocked": false,
+    "borders": [
+      "Ivory Coast",
+      "Liberia",
+      "Mali",
+      "Senegal",
+      "Sierra Leone"
+    ]
+  },
+  {
+    "name": "Gambia",
+    "code": "GMB",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "area": 10689,
+    "landlocked": false,
+    "borders": [
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "GNQ",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "area": 28051,
+    "landlocked": false,
+    "borders": [
+      "Cameroon",
+      "Gabon"
+    ]
+  },
+  {
+    "name": "Greece",
+    "code": "GRC",
+    "capital": "Athens",
+    "continent": "Europe",
+    "area": 131990,
+    "landlocked": false,
+    "borders": [
+      "Albania",
+      "Bulgaria",
+      "Turkey",
+      "North Macedonia"
+    ]
+  },
+  {
+    "name": "Grenada",
+    "code": "GRD",
+    "capital": "St. George's",
+    "continent": "North America",
+    "area": 344,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Guatemala",
+    "code": "GTM",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "area": 108889,
+    "landlocked": false,
+    "borders": [
+      "Belize",
+      "El Salvador",
+      "Honduras",
+      "Mexico"
+    ]
+  },
+  {
+    "name": "Guyana",
+    "code": "GUY",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "area": 214969,
+    "landlocked": false,
+    "borders": [
+      "Brazil",
+      "Suriname",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Honduras",
+    "code": "HND",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "area": 112492,
+    "landlocked": false,
+    "borders": [
+      "Guatemala",
+      "El Salvador",
+      "Nicaragua"
+    ]
+  },
+  {
+    "name": "Croatia",
+    "code": "HRV",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "area": 56594,
+    "landlocked": false,
+    "borders": [
+      "Bosnia and Herzegovina",
+      "Hungary",
+      "Montenegro",
+      "Serbia",
+      "Slovenia"
+    ]
+  },
+  {
+    "name": "Haiti",
+    "code": "HTI",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "area": 27750,
+    "landlocked": false,
+    "borders": [
+      "Dominican Republic"
+    ]
+  },
+  {
+    "name": "Hungary",
+    "code": "HUN",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "area": 93028,
+    "landlocked": true,
+    "borders": [
+      "Austria",
+      "Croatia",
+      "Romania",
+      "Serbia",
+      "Slovakia",
+      "Slovenia",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "code": "IDN",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "area": 1904569,
+    "landlocked": false,
+    "borders": [
+      "Timor-Leste",
+      "Malaysia",
+      "Papua New Guinea"
+    ]
+  },
+  {
+    "name": "India",
+    "code": "IND",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "area": 3287590,
+    "landlocked": false,
+    "borders": [
+      "Bangladesh",
+      "Bhutan",
+      "Myanmar",
+      "China",
+      "Nepal",
+      "Pakistan"
+    ]
+  },
+  {
+    "name": "Ireland",
+    "code": "IRL",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "area": 70273,
+    "landlocked": false,
+    "borders": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "name": "Iran",
+    "code": "IRN",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "area": 1648195,
+    "landlocked": false,
+    "borders": [
+      "Afghanistan",
+      "Armenia",
+      "Azerbaijan",
+      "Iraq",
+      "Pakistan",
+      "Turkey",
+      "Turkmenistan"
+    ]
+  },
+  {
+    "name": "Iraq",
+    "code": "IRQ",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "area": 438317,
+    "landlocked": false,
+    "borders": [
+      "Iran",
+      "Jordan",
+      "Kuwait",
+      "Saudi Arabia",
+      "Syria",
+      "Turkey"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "code": "ISL",
+    "capital": "Reykjavik",
+    "continent": "Europe",
+    "area": 103000,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Israel",
+    "code": "ISR",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "area": 20770,
+    "landlocked": false,
+    "borders": [
+      "Egypt",
+      "Jordan",
+      "Lebanon",
+      "Syria"
+    ]
+  },
+  {
+    "name": "Italy",
+    "code": "ITA",
+    "capital": "Rome",
+    "continent": "Europe",
+    "area": 301336,
+    "landlocked": false,
+    "borders": [
+      "Austria",
+      "France",
+      "San Marino",
+      "Slovenia",
+      "Switzerland",
+      "Vatican City"
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "code": "JAM",
+    "capital": "Kingston",
+    "continent": "Americas",
+    "area": 10991,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Jordan",
+    "code": "JOR",
+    "capital": "Amman",
+    "continent": "Asia",
+    "area": 89342,
+    "landlocked": false,
+    "borders": [
+      "Iraq",
+      "Israel",
+      "Saudi Arabia",
+      "Syria"
+    ]
+  },
+  {
+    "name": "Japan",
+    "code": "JPN",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "area": 377930,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "KAZ",
+    "capital": "Nur-Sultan",
+    "continent": "Asia",
+    "area": 2724900,
+    "landlocked": true,
+    "borders": [
+      "China",
+      "Kyrgyzstan",
+      "Russia",
+      "Turkmenistan",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "name": "Kenya",
+    "code": "KEN",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "area": 580367,
+    "landlocked": false,
+    "borders": [
+      "Ethiopia",
+      "Somalia",
+      "South Sudan",
+      "Tanzania",
+      "Uganda"
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "KGZ",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "area": 199951,
+    "landlocked": true,
+    "borders": [
+      "China",
+      "Kazakhstan",
+      "Tajikistan",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "code": "KHM",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "area": 181035,
+    "landlocked": false,
+    "borders": [
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "code": "KIR",
+    "capital": "South Tarawa",
+    "continent": "Oceania",
+    "area": 811,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "KNA",
+    "capital": "Basseterre",
+    "continent": "North America",
+    "area": 261,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "South Korea",
+    "code": "KOR",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "area": 100210,
+    "landlocked": false,
+    "borders": [
+      "North Korea"
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "code": "KWT",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "area": 17818,
+    "landlocked": false,
+    "borders": [
+      "Iraq",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "name": "Laos",
+    "code": "LAO",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "area": 236800,
+    "landlocked": true,
+    "borders": [
+      "Myanmar",
+      "Cambodia",
+      "China",
+      "Thailand",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "code": "LBN",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "area": 10452,
+    "landlocked": false,
+    "borders": [
+      "Israel",
+      "Syria"
+    ]
+  },
+  {
+    "name": "Liberia",
+    "code": "LBR",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "area": 111369,
+    "landlocked": false,
+    "borders": [
+      "Guinea",
+      "Ivory Coast",
+      "Sierra Leone"
+    ]
+  },
+  {
+    "name": "Libya",
+    "code": "LBY",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "area": 1759540,
+    "landlocked": false,
+    "borders": [
+      "Algeria",
+      "Chad",
+      "Egypt",
+      "Niger",
+      "Sudan",
+      "Tunisia"
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "LCA",
+    "capital": "Castries",
+    "continent": "North America",
+    "area": 616,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LIE",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "area": 160,
+    "landlocked": true,
+    "borders": [
+      "Austria",
+      "Switzerland"
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "LKA",
+    "capital": "Colombo",
+    "continent": "Asia",
+    "area": 65610,
+    "landlocked": false,
+    "borders": [
+      "India"
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "code": "LSO",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "area": 30355,
+    "landlocked": true,
+    "borders": [
+      "South Africa"
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "code": "LTU",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "area": 65300,
+    "landlocked": false,
+    "borders": [
+      "Belarus",
+      "Latvia",
+      "Poland",
+      "Russia"
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LUX",
+    "capital": "Luxembourg",
+    "continent": "Europe",
+    "area": 2586,
+    "landlocked": true,
+    "borders": [
+      "Belgium",
+      "France",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Latvia",
+    "code": "LVA",
+    "capital": "Riga",
+    "continent": "Europe",
+    "area": 64559,
+    "landlocked": false,
+    "borders": [
+      "Belarus",
+      "Estonia",
+      "Lithuania",
+      "Russia"
+    ]
+  },
+  {
+    "name": "Morocco",
+    "code": "MAR",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "area": 446550,
+    "landlocked": false,
+    "borders": [
+      "Algeria",
+      "Spain"
+    ]
+  },
+  {
+    "name": "Monaco",
+    "code": "MCO",
+    "capital": "Monaco",
+    "continent": "Europe",
+    "area": 2.02,
+    "landlocked": false,
+    "borders": [
+      "France"
+    ]
+  },
+  {
+    "name": "Moldova",
+    "code": "MDA",
+    "capital": "Chișinău",
+    "continent": "Europe",
+    "area": 33846,
+    "landlocked": true,
+    "borders": [
+      "Romania",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "code": "MDG",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "area": 587041,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Maldives",
+    "code": "MDV",
+    "capital": "Malé",
+    "continent": "Asia",
+    "area": 300,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Mexico",
+    "code": "MEX",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "area": 1964375,
+    "landlocked": false,
+    "borders": [
+      "Belize",
+      "Guatemala",
+      "United States"
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "MHL",
+    "capital": "Majuro",
+    "continent": "Oceania",
+    "area": 181,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MKD",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "area": 25713,
+    "landlocked": true,
+    "borders": [
+      "Albania",
+      "Bulgaria",
+      "Greece",
+      "Serbia"
+    ]
+  },
+  {
+    "name": "Mali",
+    "code": "MLI",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "area": 1240192,
+    "landlocked": true,
+    "borders": [
+      "Algeria",
+      "Burkina Faso",
+      "Guinea",
+      "Ivory Coast",
+      "Mauritania",
+      "Niger",
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Malta",
+    "code": "MLT",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "area": 316,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Myanmar",
+    "code": "MMR",
+    "capital": "Naypyidaw",
+    "continent": "Asia",
+    "area": 676578,
+    "landlocked": false,
+    "borders": [
+      "Bangladesh",
+      "China",
+      "India",
+      "Laos",
+      "Thailand"
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "code": "MNE",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "area": 13812,
+    "landlocked": false,
+    "borders": [
+      "Albania",
+      "Bosnia and Herzegovina",
+      "Croatia",
+      "Serbia"
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "code": "MNG",
+    "capital": "Ulan Bator",
+    "continent": "Asia",
+    "area": 1564110,
+    "landlocked": true,
+    "borders": [
+      "China",
+      "Russia"
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "code": "MOZ",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "area": 801590,
+    "landlocked": false,
+    "borders": [
+      "Malawi",
+      "South Africa",
+      "Eswatini",
+      "Tanzania",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "code": "MRT",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "area": 1030700,
+    "landlocked": false,
+    "borders": [
+      "Algeria",
+      "Mali",
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "code": "MUS",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "area": 2040,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Malawi",
+    "code": "MWI",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "area": 118484,
+    "landlocked": true,
+    "borders": [
+      "Mozambique",
+      "Tanzania",
+      "Zambia"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "code": "MYS",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "area": 330803,
+    "landlocked": false,
+    "borders": [
+      "Brunei",
+      "Indonesia",
+      "Thailand"
+    ]
+  },
+  {
+    "name": "Namibia",
+    "code": "NAM",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "area": 825615,
+    "landlocked": false,
+    "borders": [
+      "Angola",
+      "Botswana",
+      "South Africa",
+      "Zambia"
+    ]
+  },
+  {
+    "name": "Niger",
+    "code": "NER",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "area": 1267000,
+    "landlocked": true,
+    "borders": [
+      "Algeria",
+      "Benin",
+      "Burkina Faso",
+      "Chad",
+      "Libya",
+      "Mali",
+      "Nigeria"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "code": "NGA",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "area": 923768,
+    "landlocked": false,
+    "borders": [
+      "Benin",
+      "Cameroon",
+      "Chad",
+      "Niger"
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "code": "NIC",
+    "capital": "Managua",
+    "continent": "North America",
+    "area": 130373,
+    "landlocked": false,
+    "borders": [
+      "Costa Rica",
+      "Honduras"
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "code": "NLD",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "area": 41850,
+    "landlocked": false,
+    "borders": [
+      "Belgium",
+      "Germany"
+    ]
+  },
+  {
+    "name": "Norway",
+    "code": "NOR",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "area": 323802,
+    "landlocked": false,
+    "borders": [
+      "Finland",
+      "Sweden",
+      "Russia"
+    ]
+  },
+  {
+    "name": "Nepal",
+    "code": "NPL",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "area": 147181,
+    "landlocked": true,
+    "borders": [
+      "China",
+      "India"
+    ]
+  },
+  {
+    "name": "Nauru",
+    "code": "NRU",
+    "capital": "Yaren",
+    "continent": "Oceania",
+    "area": 21,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZL",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "area": 270467,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Oman",
+    "code": "OMN",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "area": 309500,
+    "landlocked": false,
+    "borders": [
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "code": "PAK",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "area": 881912,
+    "landlocked": false,
+    "borders": [
+      "Afghanistan",
+      "China",
+      "India",
+      "Iran"
+    ]
+  },
+  {
+    "name": "Panama",
+    "code": "PAN",
+    "capital": "Panama City",
+    "continent": "North America",
+    "area": 75417,
+    "landlocked": false,
+    "borders": [
+      "Colombia",
+      "Costa Rica"
+    ]
+  },
+  {
+    "name": "Peru",
+    "code": "PER",
+    "capital": "Lima",
+    "continent": "South America",
+    "area": 1285216,
+    "landlocked": false,
+    "borders": [
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador"
+    ]
+  },
+  {
+    "name": "Philippines",
+    "code": "PHL",
+    "capital": "Manila",
+    "continent": "Asia",
+    "area": 342353,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Palau",
+    "code": "PLW",
+    "capital": "Ngerulmud",
+    "continent": "Oceania",
+    "area": 459,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "PNG",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "area": 462840,
+    "landlocked": false,
+    "borders": [
+      "Indonesia"
+    ]
+  },
+  {
+    "name": "Poland",
+    "code": "POL",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "area": 312679,
+    "landlocked": false,
+    "borders": [
+      "Belarus",
+      "Czechia",
+      "Germany",
+      "Lithuania",
+      "Russia",
+      "Slovakia",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "North Korea",
+    "code": "PRK",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "area": 120538,
+    "landlocked": false,
+    "borders": [
+      "China",
+      "South Korea",
+      "Russia"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "code": "PRT",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "area": 92090,
+    "landlocked": false,
+    "borders": [
+      "Spain"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "code": "PRY",
+    "capital": "Asunción",
+    "continent": "South America",
+    "area": 406752,
+    "landlocked": true,
+    "borders": [
+      "Argentina",
+      "Bolivia",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "Qatar",
+    "code": "QAT",
+    "capital": "Doha",
+    "continent": "Asia",
+    "area": 11586,
+    "landlocked": false,
+    "borders": [
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "name": "Romania",
+    "code": "ROU",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "area": 238391,
+    "landlocked": false,
+    "borders": [
+      "Bulgaria",
+      "Hungary",
+      "Moldova",
+      "Serbia",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Russia",
+    "code": "RUS",
+    "capital": "Moscow",
+    "continent": "Europe",
+    "area": 17098242,
+    "landlocked": false,
+    "borders": [
+      "Azerbaijan",
+      "Belarus",
+      "China",
+      "Estonia",
+      "Finland",
+      "Georgia",
+      "Kazakhstan",
+      "North Korea",
+      "Latvia",
+      "Lithuania",
+      "Mongolia",
+      "Norway",
+      "Poland",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "code": "RWA",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "area": 26338,
+    "landlocked": true,
+    "borders": [
+      "Burundi",
+      "DR Congo",
+      "Tanzania",
+      "Uganda"
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "SAU",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "area": 2149690,
+    "landlocked": false,
+    "borders": [
+      "Iraq",
+      "Jordan",
+      "Kuwait",
+      "Oman",
+      "Qatar",
+      "United Arab Emirates",
+      "Yemen"
+    ]
+  },
+  {
+    "name": "Sudan",
+    "code": "SDN",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "area": 1886068,
+    "landlocked": false,
+    "borders": [
+      "Central African Republic",
+      "Chad",
+      "Egypt",
+      "Eritrea",
+      "Ethiopia",
+      "Libya",
+      "South Sudan"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "code": "SEN",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "area": 196722,
+    "landlocked": false,
+    "borders": [
+      "Gambia",
+      "Guinea",
+      "Mali",
+      "Mauritania"
+    ]
+  },
+  {
+    "name": "Singapore",
+    "code": "SGP",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "area": 710,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "SLB",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "area": 28896,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SLE",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "area": 71740,
+    "landlocked": false,
+    "borders": [
+      "Guinea",
+      "Liberia"
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "code": "SLV",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "area": 21041,
+    "landlocked": false,
+    "borders": [
+      "Guatemala",
+      "Honduras"
+    ]
+  },
+  {
+    "name": "San Marino",
+    "code": "SMR",
+    "capital": "City of San Marino",
+    "continent": "Europe",
+    "area": 61,
+    "landlocked": true,
+    "borders": [
+      "Italy"
+    ]
+  },
+  {
+    "name": "Somalia",
+    "code": "SOM",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "area": 637657,
+    "landlocked": false,
+    "borders": [
+      "Djibouti",
+      "Ethiopia",
+      "Kenya"
+    ]
+  },
+  {
+    "name": "Serbia",
+    "code": "SRB",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "area": 88361,
+    "landlocked": true,
+    "borders": [
+      "Bosnia and Herzegovina",
+      "Bulgaria",
+      "Croatia",
+      "Hungary",
+      "North Macedonia",
+      "Montenegro",
+      "Romania"
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "code": "SSD",
+    "capital": "Juba",
+    "continent": "Africa",
+    "area": 619745,
+    "landlocked": true,
+    "borders": [
+      "Central African Republic",
+      "DR Congo",
+      "Ethiopia",
+      "Kenya",
+      "Sudan",
+      "Uganda"
+    ]
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "code": "STP",
+    "capital": "São Tomé",
+    "continent": "Africa",
+    "area": 964,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Suriname",
+    "code": "SUR",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "area": 163820,
+    "landlocked": false,
+    "borders": [
+      "Brazil",
+      "Guyana"
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "code": "SVK",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "area": 49037,
+    "landlocked": true,
+    "borders": [
+      "Austria",
+      "Czechia",
+      "Hungary",
+      "Poland",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "code": "SVN",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "area": 20273,
+    "landlocked": false,
+    "borders": [
+      "Austria",
+      "Croatia",
+      "Italy",
+      "Hungary"
+    ]
+  },
+  {
+    "name": "Sweden",
+    "code": "SWE",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "area": 450295,
+    "landlocked": false,
+    "borders": [
+      "Finland",
+      "Norway"
+    ]
+  },
+  {
+    "name": "Eswatini",
+    "code": "SWZ",
+    "capital": "Lobamba",
+    "continent": "Africa",
+    "area": 17364,
+    "landlocked": true,
+    "borders": [
+      "Mozambique",
+      "South Africa"
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "code": "SYC",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "area": 452,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Syria",
+    "code": "SYR",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "area": 185180,
+    "landlocked": false,
+    "borders": [
+      "Iraq",
+      "Israel",
+      "Jordan",
+      "Lebanon",
+      "Turkey"
+    ]
+  },
+  {
+    "name": "Chad",
+    "code": "TCD",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "area": 1284000,
+    "landlocked": true,
+    "borders": [
+      "Cameroon",
+      "Central African Republic",
+      "Libya",
+      "Niger",
+      "Nigeria",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Togo",
+    "code": "TGO",
+    "capital": "Lomé",
+    "continent": "Africa",
+    "area": 56785,
+    "landlocked": false,
+    "borders": [
+      "Benin",
+      "Burkina Faso",
+      "Ghana"
+    ]
+  },
+  {
+    "name": "Thailand",
+    "code": "THA",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "area": 513120,
+    "landlocked": false,
+    "borders": [
+      "Myanmar",
+      "Cambodia",
+      "Laos",
+      "Malaysia"
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "code": "TJK",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "area": 143100,
+    "landlocked": true,
+    "borders": [
+      "Afghanistan",
+      "China",
+      "Kyrgyzstan",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "TKM",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "area": 488100,
+    "landlocked": true,
+    "borders": [
+      "Afghanistan",
+      "Iran",
+      "Kazakhstan",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "TLS",
+    "capital": "Dili",
+    "continent": "Asia",
+    "area": 14874,
+    "landlocked": false,
+    "borders": [
+      "Indonesia"
+    ]
+  },
+  {
+    "name": "Tonga",
+    "code": "TON",
+    "capital": "Nuku'alofa",
+    "continent": "Oceania",
+    "area": 747,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "TTO",
+    "capital": "Port of Spain",
+    "continent": "South America",
+    "area": 5130,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Tunisia",
+    "code": "TUN",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "area": 163610,
+    "landlocked": false,
+    "borders": [
+      "Algeria",
+      "Libya"
+    ]
+  },
+  {
+    "name": "Turkey",
+    "code": "TUR",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "area": 783562,
+    "landlocked": false,
+    "borders": [
+      "Armenia",
+      "Azerbaijan",
+      "Bulgaria",
+      "Georgia",
+      "Greece",
+      "Iran",
+      "Iraq",
+      "Syria"
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "code": "TUV",
+    "capital": "Funafuti",
+    "continent": "Oceania",
+    "area": 26,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZA",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "area": 945087,
+    "landlocked": false,
+    "borders": [
+      "Burundi",
+      "DR Congo",
+      "Kenya",
+      "Malawi",
+      "Mozambique",
+      "Rwanda",
+      "Uganda",
+      "Zambia"
+    ]
+  },
+  {
+    "name": "Uganda",
+    "code": "UGA",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "area": 241550,
+    "landlocked": true,
+    "borders": [
+      "DR Congo",
+      "Kenya",
+      "Rwanda",
+      "South Sudan",
+      "Tanzania"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "code": "UKR",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "area": 603500,
+    "landlocked": false,
+    "borders": [
+      "Belarus",
+      "Hungary",
+      "Moldova",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Slovakia"
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "code": "URY",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "area": 181034,
+    "landlocked": false,
+    "borders": [
+      "Argentina",
+      "Brazil"
+    ]
+  },
+  {
+    "name": "United States",
+    "code": "USA",
+    "capital": "Washington D.C.",
+    "continent": "North America",
+    "area": 9372610,
+    "landlocked": false,
+    "borders": [
+      "Canada",
+      "Mexico"
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "UZB",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "area": 447400,
+    "landlocked": true,
+    "borders": [
+      "Afghanistan",
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Turkmenistan"
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "code": "VAT",
+    "capital": "Vatican City",
+    "continent": "Europe",
+    "area": 0.44,
+    "landlocked": true,
+    "borders": [
+      "Italy"
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VCT",
+    "capital": "Kingstown",
+    "continent": "North America",
+    "area": 389,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Venezuela",
+    "code": "VEN",
+    "capital": "Caracas",
+    "continent": "South America",
+    "area": 916445,
+    "landlocked": false,
+    "borders": [
+      "Brazil",
+      "Colombia",
+      "Guyana"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "code": "VNM",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "area": 331212,
+    "landlocked": false,
+    "borders": [
+      "Cambodia",
+      "China",
+      "Laos"
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "code": "VUT",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "area": 12189,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Samoa",
+    "code": "WSM",
+    "capital": "Apia",
+    "continent": "Oceania",
+    "area": 2842,
+    "landlocked": false,
+    "borders": []
+  },
+  {
+    "name": "Yemen",
+    "code": "YEM",
+    "capital": "Sana'a",
+    "continent": "Asia",
+    "area": 527968,
+    "landlocked": false,
+    "borders": [
+      "Oman",
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "name": "South Africa",
+    "code": "ZAF",
+    "capital": "Cape Town",
+    "continent": "Africa",
+    "area": 1221037,
+    "landlocked": false,
+    "borders": [
+      "Botswana",
+      "Lesotho",
+      "Mozambique",
+      "Namibia",
+      "Eswatini",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "name": "Zambia",
+    "code": "ZMB",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "area": 752612,
+    "landlocked": true,
+    "borders": [
+      "Angola",
+      "Botswana",
+      "DR Congo",
+      "Malawi",
+      "Mozambique",
+      "Namibia",
+      "Tanzania",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZWE",
+    "capital": "Harare",
+    "continent": "Africa",
+    "area": 390757,
+    "landlocked": true,
+    "borders": [
+      "Botswana",
+      "Mozambique",
+      "South Africa",
+      "Zambia"
+    ]
+  }
+]
